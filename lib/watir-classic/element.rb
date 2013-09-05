@@ -153,9 +153,9 @@ module Watir
     # Will wait automatically until browser is ready after the click if page load was triggered for example.
     # @macro exists
     # @macro enabled
-    def click
+    def click(dont_wait=false)
       click!
-      @container.wait
+      @container.wait(dont_wait)
     end
 
     # Performs a right click on the element.
