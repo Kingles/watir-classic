@@ -162,11 +162,12 @@ module Watir
       @select_list = el
     end
 
-    def change_selected(value)
+    def change_selected(value,dont_wait=false,&block)
       select_list.focus
       ole_object.selected = value
       select_list.dispatch_event("onChange")
-      @container.wait
+      block.call if block
+      @container.wait(dont_wait)
     end
   end
 

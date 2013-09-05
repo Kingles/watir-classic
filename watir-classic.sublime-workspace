@@ -1,0 +1,601 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"NEW_ACTION",
+				"test_that_new_action_pushed"
+			],
+			[
+				"remote",
+				"remote_sql_location"
+			],
+			[
+				"upgr",
+				"upgrades"
+			],
+			[
+				"WARN",
+				"WARN"
+			],
+			[
+				"out",
+				"output_directory"
+			],
+			[
+				"CR",
+				"CR"
+			],
+			[
+				"from",
+				"from_version"
+			],
+			[
+				"the",
+				"threshhold"
+			],
+			[
+				"generic",
+				"generic_sys_query"
+			],
+			[
+				"xp",
+				"xpath"
+			],
+			[
+				"tra",
+				"transaction"
+			],
+			[
+				"schem",
+				"schema"
+			],
+			[
+				"dro_",
+				"drop_list"
+			],
+			[
+				"schemas",
+				"check_open_schemas"
+			],
+			[
+				"beginpar",
+				"beginpartial"
+			],
+			[
+				"end",
+				"endparse"
+			],
+			[
+				"P",
+				"ParseSymbols"
+			],
+			[
+				"begin",
+				"beginparse"
+			],
+			[
+				"item",
+				"item"
+			],
+			[
+				"config_va",
+				"config_value"
+			],
+			[
+				"confi",
+				"config"
+			],
+			[
+				"E",
+				"E"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"I",
+				"i"
+			],
+			[
+				"stage",
+				"stage_files"
+			],
+			[
+				"do",
+				"dob	Insert do |variable| … end"
+			],
+			[
+				"add_pro",
+				"add_property"
+			],
+			[
+				"requ",
+				"require_relative"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"add_proper",
+				"add_property_to_item"
+			],
+			[
+				"con",
+				"configatron"
+			],
+			[
+				"config",
+				"config_value"
+			],
+			[
+				"add",
+				"add_or_alter_config"
+			],
+			[
+				"File",
+				"FileUtils"
+			],
+			[
+				"svn",
+				"svn_location"
+			],
+			[
+				"dmp",
+				"dmp_file_name"
+			],
+			[
+				"ver",
+				"version_vals"
+			],
+			[
+				"upgra",
+				"upgrade_scripts"
+			],
+			[
+				"arg",
+				"aruguments"
+			],
+			[
+				"meth",
+				"method_sym"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"rspec",
+				"Set Syntax: RSpec"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"gherk",
+				"Set Syntax: Gherkin"
+			],
+			[
+				"cucumber",
+				"Set Syntax: Cucumber Steps"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"brac",
+				"BracketHighlighter: Remove Brackets"
+			],
+			[
+				"brack",
+				"BracketHighlighter: Wrap Selections with Brackets"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"bracket",
+				"Bracketeer: Insert square brackets"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"line",
+				"Line Ending: Unix"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/JM/Documents/git/watir-classic/lib/watir-classic/element.rb",
+		"/C/Users/JM/Documents/git/Fixit/landa.rb",
+		"/C/Windows/careconfig.ini",
+		"/E/log.c",
+		"/C/Users/JM/Documents/git/TimesheetGenerator/timesheet_generator.rb",
+		"/C/Opt/CR/MC1004000002_rc01/DB_Scripts/MC1000_MC100400_AutoConversion.txt",
+		"/C/Opt/CR/MC1004000002_rc01/DB_Scripts/MC0900_MC100400_AutoConversion.txt",
+		"/E/MaxMC/MC10040002_rc03/DB_Scripts/MC0900_MC100400_AutoConversion.txt",
+		"/C/Users/JM/Documents/git/CA_Careplans/SpecRunner.html",
+		"/C/Users/JM/Documents/git/Fixit/enhancements",
+		"/C/Users/JM/Documents/SVN/qa/trunk/Automation/reng_util_testing/auditing/features/Auditing_default_size.feature",
+		"/C/Users/JM/Documents/git/Fixit/app/views/mainmenu.view.rb",
+		"/C/Users/JM/Documents/git/Fixit/app/views/partials/footer.part",
+		"/C/Users/JM/Documents/git/Fixit/app/views/partials/header.part",
+		"/E/HAP/Test_9/HAP9.cpu",
+		"/C/Users/JM/Documents/git/Fixit/landa/add_schema_to_user",
+		"/E/HAP/Test_10/HAP_Test_10.mem_2",
+		"/E/HAP/Test_10/HAP_Test_10.mem_1",
+		"/E/HAP/Test_9/cpu_mem_format.rb",
+		"/C/Users/JM/Documents/git/CA_Careplans/watir_poc.rb",
+		"/E/HAP/HAP/running.rb",
+		"/C/Users/JM/Documents/git/Fixit/config.rb",
+		"//cic-qa-arc01/db_dumps/auto.log",
+		"/C/Users/JM/Documents/SVN/qa/trunk/Automation/reng_util_testing/auditing/features/Auditing.feature",
+		"/E/HAP/Test_10/HAP_Test_10.cpu_1",
+		"/E/HAP/Test_10/HAP_Test_10.cpu_2",
+		"/L/Product Delivery Team/Special Projects/HAP POC/Test Data/HAP_TEST_5rerun.mem",
+		"/L/Product Delivery Team/Special Projects/HAP POC/Test Data/HAP_TEST_5rerun.cpu",
+		"/E/HAP/Test_9/output_cpu.csv",
+		"/E/HAP/Test_9/old/HAP_Test_9_02.cpu",
+		"/E/HAP/Test_9/output_mem.csv",
+		"/E/HAP/Test_9/HAP_Test_9_02.cpu",
+		"/C/Users/JM/Documents/git/Fixit/landa/moustache.rb",
+		"/C/Users/JM/Documents/git/Fixit/AutoConversion.txt",
+		"/C/Users/JM/Documents/git/Fixit/compiled/sunny.zip",
+		"/E/CR0201000028_rc01/DB_Scripts/Tools/AutoConversion.txt",
+		"/E/HAP/Test_9/HAP_Test_9_02.mem",
+		"/E/HAP/HAP/Test_6/HAP_Test_6.cpu",
+		"/L/Product Delivery Team/Special Projects/HAP POC/Test Data/Test_6/HAP_Test_6.cpu",
+		"/L/Product Delivery Team/Special Projects/HAP POC/Test Data/Test_6/HAP_Test_6.mem.bak",
+		"/E/HAP/HAP/HAP_1Srv_Load.webtest",
+		"/E/HAP/HAP/output.csv",
+		"/C/Users/JM/Documents/git/omaki/robert_test/running.rb",
+		"/C/Users/JM/Documents/git/omaki/robert_test/TestXml.xml",
+		"/C/Users/JM/Documents/git/Fixit/landa.gemspec",
+		"/C/Users/JM/Desktop/WID8122013",
+		"/C/Users/JM/Documents/git/Fixit/landa/landa.gemspec",
+		"/C/Users/JM/Documents/git/Fixit/Gemfile",
+		"/E/CareRadius/02_00_06/CR0200060012_rc01/DB_Scripts/Tools/sy_load.tcl",
+		"/C/Users/JM/Documents/git/Fixit/landa/user.rb",
+		"/C/Users/JM/Documents/git/Fixit/compiled/config.rb",
+		"/C/Users/JM/Documents/git/omaki/xmlparse.test",
+		"/C/Users/JM/Documents/git/Fixit/config.bak",
+		"/C/Users/JM/Pictures/ZwLtozI.gif",
+		"//cic-vm-bl113c/c$/Tomcat 6.0/logs/catalina.2013-08-09.log",
+		"/C/Users/JM/Desktop/53800/backup.config",
+		"/C/Users/JM/Local Settings/Temp/i4j_nlog_6",
+		"/C/Users/JM/Desktop/53800/UTT_QUERY_05.sql",
+		"/C/Users/JM/AppData/Local/Temp/7zE290.tmp/MANIFEST.MF",
+		"/C/Users/JM/Documents/git/Fixit/landa/Rakefile",
+		"/C/Users/JM/Documents/git/Fixit/Rakefile",
+		"/C/Users/JM/Documents/git/omaki/robert_test/3Srv_Load_new.webtest",
+		"//landacorp.local/shares/Home/RLD/Load_test_recording/3Srv_Load_new.webtest.bak",
+		"/C/Users/JM/Documents/git/Fixit/landa/ledis.rb",
+		"/C/Users/JM/AppData/Roaming/Sublime Text 3/Packages/BracketHighlighter/bh_core.sublime-settings",
+		"/C/soapUI_20x/Test_Data/CareRadius/External/environment.txt",
+		"/C/soapUI_20x/Test_Data/CareRadius/Internal/environment_temp.txt",
+		"/C/Users/JM/Documents/git/Fixit/Gemfile.lock",
+		"/C/Users/JM/Documents/git/Fixit/landa/backup/runsql.rb",
+		"/C/Users/JM/Documents/git/Triggerizer/t.rb",
+		"/E/CareRadius/01_06/CR0106130003_rc01/DB_Scripts/Tools/CR0104_CR010613_AutoConversion.txt",
+		"/E/CareRadius/02_00_04/CR0200040013_rc01/DB_Scripts/Tools/CR020004.sql",
+		"/E/CareRadius/02_00_04/CR0200040401_rc02/DB_Scripts/Tools/CR02000404.sql",
+		"/C/Users/JM/Downloads/runconversion.tcl"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Users\\JM\\Documents\\git\\Fixit\\landa",
+			"C:\\Users\\JM\\Documents\\git\\Fixit",
+			"C:\\Users\\JM\\Documents\\git\\Fixit\\landa",
+			"C:\\Users\\JM\\Documents\\git\\Fixit",
+			"C:\\Users\\JM\\Documents\\git\\Fixit\\landa",
+			"C:\\Users\\JM\\Documents\\git\\Fixit",
+			"C:\\Users\\JM\\Documents\\git\\Fixit\\landa",
+			"C:\\Users\\JM\\Documents\\git\\Fixit"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"status",
+			"remote_sql_location",
+			"remote_",
+			"/sql/",
+			"name]}/sql/",
+			"/sql/",
+			"ssh",
+			"stage_files",
+			"SecureRandom",
+			"user",
+			":WARN",
+			"WARN",
+			"val is",
+			"vals",
+			"new_action",
+			"actions(",
+			"actions\\.",
+			"actions",
+			"loggetchannel",
+			"channel",
+			"chmod",
+			"val is",
+			"rm_r",
+			"cp_u",
+			"gets",
+			"cp",
+			".cp",
+			"pull_files",
+			".cp",
+			"get_DB_file_location",
+			"VALUE",
+			"get_auto_file",
+			"res.select{|v| v =~ /\\/MC#{$1}\\d{2}_/}",
+			"get_auto_file",
+			"Conversion",
+			"AUTOFILE IS",
+			"Conversion",
+			"app",
+			"scrub_to",
+			"case to_",
+			"Staged at",
+			"set_queries",
+			"upgrade_scripts",
+			"build",
+			"to_version",
+			"to_version =~",
+			"stage_files",
+			"MAXMC",
+			"stage_files",
+			"get_DB_file_location",
+			"CareRadius",
+			"scrub_to",
+			"Conversion",
+			"stage_DB_files",
+			".txt",
+			"autoconversion",
+			"starttime",
+			"ROOT",
+			"check_autolog",
+			"starttime",
+			"oracle_query",
+			"generic_sys",
+			"log",
+			"mtotal",
+			"time",
+			"check_open_schemas",
+			"schema",
+			"find_upgrade_scripts",
+			")\n",
+			"scrub_to",
+			"scrub_",
+			"get_DB_file_location",
+			"get_package",
+			"get_package_files",
+			"add_schemas",
+			"user",
+			"$job.user",
+			"config_value",
+			"er",
+			"us",
+			")$/",
+			"add_or_alter_config",
+			"\\s",
+			"<!--.*-->\\s",
+			"<!--.*|\\s-->",
+			"$job.user",
+			"login",
+			"job.user",
+			"user",
+			"No versions that match",
+			"scrub_to",
+			"if Object.const_defined?(:Ocra)",
+			"viewstate",
+			"{{",
+			"BaseDialog",
+			"{{",
+			"(?<=(<Request Method=\"POST\" Version=\"1.1\" Url=\"http://cic-lte-iis01/CareRadius/CommonUC/Dialog/BaseDialogFrame.aspx\"))(.*?)(?=(__VIEWSTATE\" Value=\"))(.*?)(?=\" UrlEncode=\"True\" />)",
+			"lget",
+			"r",
+			"r.",
+			"$job.user",
+			"ssh_user = $job.user if ssh_user == nil",
+			"$job.user",
+			"user",
+			"#{$`}",
+			"get_DB_file_location",
+			"new",
+			"puts",
+			"get_DB_file_location",
+			"new",
+			"get_DB_file_location",
+			"app",
+			"get_package_files",
+			"automate_complex",
+			"dmp_file_stager",
+			"dmp_file_name",
+			"dmpfile",
+			"get_re_version",
+			"puts",
+			"seed",
+			"is the largest",
+			"lindex",
+			"lrange",
+			"@r",
+			"CREAT_DATE",
+			"handoffs:#{build}",
+			"handoffs:#{version",
+			"handoffs:#{b"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"@remote_sql_location",
+			"name]}/#{remote_sql_location}/",
+			"action",
+			"actions",
+			"scrub_to_version",
+			"STARTTIME",
+			"",
+			"$job.login",
+			"ssh_user = $job.login if ssh_user == nil",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "C:\\Users\\JM\\Documents\\git\\watir-classic"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 88.0
+	},
+	"project": "",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 154.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
